@@ -1,5 +1,3 @@
-# Dominik Molenda
-# zadanie 4
 import argparse
 
 parser = argparse.ArgumentParser()
