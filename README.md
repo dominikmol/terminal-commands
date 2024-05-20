@@ -2,6 +2,6 @@
 Linux terminal commands rewritten in Python
 
 cut  
-head  
+head / tail  
 ls  
 tree  
