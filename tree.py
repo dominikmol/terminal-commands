@@ -1,4 +1,3 @@
-# Dominik Molenda
 import os
 import argparse
 
