@@ -1,5 +1,3 @@
-# Dominik Molenda
-# zadania 1-3
 import sys
 import argparse
 
